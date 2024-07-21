@@ -1,4 +1,4 @@
-**QRCode Service** created as part of [Hyperskill](https://hyperskill.org/projects/385) Java Backend Developer (Spring Boot) track.**
+**QRCode Service created as part of [Hyperskill](https://hyperskill.org/projects/385) Java Backend Developer (Spring Boot) track.**
 
 **Demo:**
 ```
