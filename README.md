@@ -1,8 +1,9 @@
-QRCode Service created as part of [Hyperskill](https://hyperskill.org/projects/385) Java Backend Developer (Spring Boot) track.**
+**QRCode Service** created as part of [Hyperskill](https://hyperskill.org/projects/385) Java Backend Developer (Spring Boot) track.**
 
 **Demo:**
 ```
-Examples
+Examples:
+
 Example 1. a GET request to /api/qrcode with a correct contents and default other parameters:
 
 Request: GET /api/qrcode?contents=abcdef
